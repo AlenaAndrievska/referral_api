@@ -1,0 +1,10 @@
+# Environments
+
+.env
+venv/
+
+# Jetbrains Intellij IDEA
+.idea/
+.DS_Store
+
+__pycache__
